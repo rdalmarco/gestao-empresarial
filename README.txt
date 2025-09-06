@@ -1,6 +1,7 @@
 *Como rodar aplicação:
 
-1 - Baixar repositório
+1 - Clonar este repositório junto com seus submódulos (repositórios separados para a api e frontend que foram centralizados aqui). 
+      Comando:  git clone --recurse-submodules https://github.com/rdalmarco/gestao-empresarial
 2 - Navegar até a pasta raiz
 3 - Rodar docker-compose up --build
 
