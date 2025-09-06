@@ -1,0 +1,6 @@
+[submodule "gestao-empresarial-api"]
+	path = gestao-empresarial-api
+	url = https://github.com/rdalmarco/gestao-empresarial-api
+[submodule "gestao-empresarial-front"]
+	path = gestao-empresarial-front
+	url = https://github.com/rdalmarco/gestao-empresarial-front
