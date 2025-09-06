@@ -4,6 +4,7 @@
       Comando:  git clone --recurse-submodules https://github.com/rdalmarco/gestao-empresarial
 2 - Navegar até a pasta raiz
 3 - Rodar docker-compose up --build
+4 - A API fica disponível em localhost:3000 e o Frontend em localhost:3001
 
 *Os endpoints foram descritos através de documentação utilizando o Swagger Api Doc:
 
